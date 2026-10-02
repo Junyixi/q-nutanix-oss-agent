@@ -1,4 +1,4 @@
-# AGI — Self-Evolving OSS Project Manager Agent
+# EVO — Self-Evolving OSS Project Manager Agent
 
 UCSB CMPSC 189A, Fall 2026 · Sponsored by Nutanix
 
